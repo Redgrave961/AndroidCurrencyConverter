@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Circular Background -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M54,2a52,52 0 1,1 0,104a52,52 0 1,1 0,-104" />
+
+    <!-- Left Arrow (Pointing Left-Down) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,50l10,-10v7h28v6h-28v7l-10,-10z" />
+
+    <!-- Right Arrow (Pointing Right-Up) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M73,58l-10,10v-7h-28v-6h28v-7l10,10z" />
+
+    <!-- Dollar Sign -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,35c0,-2.2 1.8,-4 4,-4h4c2.2,0 4,1.8 4,4s-1.8,4 -4,4h-4c-2.2,0 -4,1.8 -4,4s1.8,4 4,4h4c2.2,0 4,1.8 4,4s-1.8,4 -4,4h-4c-2.2,0 -4,-1.8 -4,-4h-4c0,4.4 3.6,8 8,8h4c4.4,0 8,-3.6 8,-8s-3.6,-8 -8,-8h-4c-4.4,0 -8,-3.6 -8,-8z" />
+
+</vector>

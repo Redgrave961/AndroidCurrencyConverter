@@ -1,0 +1,22 @@
+<resources>
+    <!-- Brand colors -->
+    <color name="app_red">#E53935</color>
+    <color name="app_red_dark">#C62828</color>
+
+    <!-- Base colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Background colors -->
+    <color name="light_background">#F5F5F5</color>
+    <color name="light_surface">#FFFFFF</color>
+    <color name="dark_background">#000000</color>
+    <color name="dark_surface">#121212</color>
+    <color name="dark_card">#1E1E1E</color>
+    <color name="gray_700">#616161</color>
+    <!-- Text and UI colors -->
+    <color name="light_text_primary">#000000</color>
+    <color name="light_text_secondary">#616161</color>
+    <color name="dark_text_primary">#FFFFFF</color>
+    <color name="dark_text_secondary">#B3FFFFFF</color>
+</resources>
